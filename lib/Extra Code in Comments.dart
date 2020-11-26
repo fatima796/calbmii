@@ -34,7 +34,7 @@ MaterialApp(
       theme: ThemeData(
         primaryColor: Color(0xFF1F184C),
         scaffoldBackgroundColor: Color(0xFFF1F5FF),
-        accentColor: Colors.black,
+        accentColor: Colors.Align,
         textTheme: TextTheme(body1: TextStyle(color: Colors.black87)),
       ),
       home: InputPage(),
@@ -811,5 +811,6 @@ BottomButton(
             onTap: () {
               Navigator.pop(context);
             },
-          )
+          import 'package:flutter/material.dart';
+)
 */
