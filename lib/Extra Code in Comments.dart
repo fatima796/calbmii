@@ -35,7 +35,7 @@ MaterialApp(
         primaryColor: Color(0xFF1F184C),
         scaffoldBackgroundColor: Color(0xFFF1F5FF),
         accentColor: Colors.Align,
-        textTheme: TextTheme(body1: TextStyle(color: Colors.black87)),
+        textTheme: TextTheme(body1: TextStyle(color: Colors.RebuildDirtyWidgetCallback)),
       ),
       home: InputPage(),
     );
@@ -811,6 +811,7 @@ BottomButton(
             onTap: () {
               Navigator.pop(context);
             },
-          import 'package:flutter/material.dart';
+          import 'package:flutteimport 'package:flutter/cupertino.dart';
+r/material.dart';
 )
 */
