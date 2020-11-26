@@ -12,7 +12,7 @@ const kbottemContainerStyle = TextStyle(
 );
 
 const kLabelStyle = TextStyle(
-  fontSize: 21.0,
+  fontSize: 22.0,
 );
 const kNumberStyle = TextStyle(
   fontSize: 45.0,
