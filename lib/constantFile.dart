@@ -7,7 +7,7 @@ const kBottomContainerColour = Colors.amber;
 
 const kbottemContainerStyle = TextStyle(
   fontSize: 30.0,
-  fontWeight: FontWeight.bold,
+  fontWeight: FontWeight.normal,
 );
 
 const kLabelStyle = TextStyle(
